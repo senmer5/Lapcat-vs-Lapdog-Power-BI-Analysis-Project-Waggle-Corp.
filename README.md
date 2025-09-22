@@ -126,10 +126,10 @@ From this project, you will gain:
 
 ---
 ## 👥 Team & Mentorship
--Team Members :
 
-Senem Mergenci - Zehra Okay - Mehmet Gezer - Sefa Öztürk - Sueda Ekiz
-Mentors : A. Özcan Kurşun & Abdullah Mart
+- Team Members :  Senem Mergenci - Zehra Okay - Mehmet Gezer - Sefa Öztürk - Sueda Ekiz
+
+- Mentors : A. Özcan Kurşun & Abdullah Mart
 
 ---
 
