@@ -2,14 +2,14 @@
 
 ---
 ## 📘 Scenario
-You are a **Business Intelligence Analyst** at **Waggle**, a pet technology startup. Waggle recently launched **Lapdog** 🐶, a smart dog collar that:
+You are a **Business Intelligence Analyst** at **Waggle**, a pet technology startup. Waggle recently launched **Lapdog** , a smart dog collar that:
 - Tracks steps 
 - Sends walking reminders 
 - Repels fleas 
 
 The product received **excellent reviews**, sales are increasing, and most importantly, it works!
 
-Encouraged by this success, the CEO is considering a **similar product for cats – Lapcat 🐱**. To test its viability, the product team distributed **1,000 Lapcat prototypes**. After months of data collection, your task is to **analyze the results and create a Power BI report comparing Lapcat to Lapdog**.
+Encouraged by this success, the CEO is considering a **similar product for cats – Lapcat **. To test its viability, the product team distributed **1,000 Lapcat prototypes**. After months of data collection, your task is to **analyze the results and create a Power BI report comparing Lapcat to Lapdog**.
 
 Your report will be presented to **top management**, so your insights will help the CEO determine if Lapcat is the next big success or a costly mistake.
 
