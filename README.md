@@ -1,7 +1,7 @@
 # Power BI Project – Lapcat 🐱 vs. Lapdog 🐶 Analysis
 
 ---
-## 📘 Scenario
+## 🔶 Scenario
 You are a **Business Intelligence Analyst** at **Waggle**, a pet technology startup. Waggle recently launched **Lapdog** , a smart dog collar that:
 - Tracks steps 
 - Sends walking reminders 
@@ -21,14 +21,14 @@ Your report will be presented to **top management**, so your insights will help 
 
 ---
 
-## 🔍 Questions from Management
+## 🔶 Questions from Management
 The CEO wants answers to:
 
 1. Did cats using Lapcat 🐱 increase their **daily average step count** similar to dogs 🐶?  
 2. Were Lapcat owners as **satisfied** with the product as Lapdog owners?
 
 ---
-## 🎨  Design & Branding Guidelines
+## 🔶 Design & Branding Guidelines
 The Marketing Director requests the report **align with Waggle's brand**:
 
 - Use **only Waggle’s color palette**  
@@ -36,7 +36,7 @@ The Marketing Director requests the report **align with Waggle's brand**:
 
 ---
 
-## 🗂️ Data & Expectations
+## 🔶 Data & Expectations
 The Power BI file already contains:
 
 - Data model   
@@ -51,7 +51,7 @@ Your Power BI report should include:
 
 ---
 
-## 📄 Report Layout – Pages
+## 🔶 Report Layout – Pages
 
 ### Menu Page (Optional)  
 - Navigation buttons to 3 main sections  
@@ -138,7 +138,7 @@ Provides detailed analysis for individual families:
 
 ---
 
-## 💡 Learning Outcomes
+## 🔶 Learning Outcomes
 From this project, you will gain:
 
 - **Hands-on experience** with Power BI 
@@ -148,7 +148,7 @@ From this project, you will gain:
 
 ---
 
-## 📝 Sample Project Provided
+## 🔶 Sample Project Provided
 - **A sample Power BI project** is available for reference: [Open in Power BI](https://app.powerbi.com/view?r=eyJrIjoiZTZlOGY0MjMtYWFiMy00ZTk0LWE2MGEtMTM3N2Y0NzIxNTNhIiwidCI6IjNlMTE2YjM1LWRkMjgtNDY2ZS1hZjdhLWFlZjZkZDMwYzY0MCIsImMiOjl9)
 
 ---
