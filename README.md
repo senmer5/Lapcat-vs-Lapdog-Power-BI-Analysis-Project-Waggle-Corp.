@@ -13,7 +13,9 @@ Encouraged by this success, the CEO is considering a **similar product for cats 
 
 Your report will be presented to **top management**, so your insights will help the CEO determine if Lapcat is the next big success or a costly mistake.
 
-<img width="553" height="400" alt="model view" src="https://github.com/user-attachments/assets/5a752a10-0410-4100-8f32-f5453d42aafb" />
+<p align="center">
+  <img width="553" height="400" alt="model view" src="https://github.com/user-attachments/assets/5a752a10-0410-4100-8f32-f5453d42aafb" />
+</p>
 
 *Overview of the Lapcat vs Lapdog data model and dashboard structure.*
 
@@ -54,32 +56,53 @@ Your Power BI report should include:
 ### Menu Page (Optional)  
 - Navigation buttons to 3 main sections  
 
-<img width="724" height="388" alt="menu" src="https://github.com/user-attachments/assets/d42ca1e7-3c65-4683-9cb2-5c0af6305eb7" />
+<p align="center">
+  <img width="724" height="388" alt="menu" src="https://github.com/user-attachments/assets/d42ca1e7-3c65-4683-9cb2-5c0af6305eb7" />
+</p>
+
+---
+### Page 1: Management Dashboard
+- **Total number of pets**  
+  Shows the overall number of cats and dogs registered in the system.  
+
+- **Satisfaction overview (Lap Cat vs Lap Dog)**  
+  Compares user satisfaction for lap cats and lap dogs in a table format.  
+
+- **Daily Steps by Review Date**  
+  Displays how the average daily steps of cats (pink) and dogs (blue) change over time.  
+  Trends are shown month by month for both.  
+
+- **Rating by Review Date and Device Type**  
+  Tracks user ratings over time and compares them across different device types (e.g., mobile, tablet) on a monthly basis.
+  
+<p align="center">
+  <img width="723" height="385" alt="management" src="https://github.com/user-attachments/assets/f6c638c2-88c7-4ac0-8d26-f979bc8f9111" />
+</p>
 
 ---
 
-### Page 1: Cat 🐱 vs. Dog 🐶 Analysis
-- Compare **initial usage behavior** (tables and/or line charts)  
-- Recommendation rates (% recommending) shown with cards  
-- Cat vs. dog proportion visualized with **pie chart**   
-- Satisfaction rates comparison 
-- Trends over time for evaluations and recommendations 
+### Page 2: Difference Analysis (Verschil Analyse) 🐾
+ 
+- **Average Daily Steps by Month-Year**  
+  Compares the same months across different years (e.g., July 2018, July 2019, July 2020 …)  
+  to identify seasonal or yearly variations.  
 
-<img width="724" height="391" alt="verschil analyse" src="https://github.com/user-attachments/assets/0a754fc4-f057-41d5-a1ba-82dd2d194882" />
+- **Monthly Average Rating by Month (short) and Device Type**  
+  Line chart showing how average user ratings vary across months and device types.  
+  Helps to compare feedback between devices.  
 
----
+- **Advice by Device Type**  
+  Compares the number of suggestions/recommendations provided by users based on their device type.  
 
-### Page 2: General Pet Data🐾
-- Total number of **cats, dogs, and pets** 
-- Cities with the **highest number of pets**   
-- Average **steps per pet** 
-- Annual step comparison (2018–2020) 
-- **Pet distribution** on a map 
-- General statistics table 
-- **Gender, age, and weight distribution**   
-- **Top 5 most popular pet types** 
+- **Count of Dogs vs. Cats**  
+  Displays the distribution of registered pets between dogs and cats.  
 
-<img width="723" height="385" alt="management" src="https://github.com/user-attachments/assets/f6c638c2-88c7-4ac0-8d26-f979bc8f9111" />
+- **Average Rating by Device Type**  
+  Compares the average ratings submitted from different device types, highlighting where higher or lower ratings come from.  
+
+<p align="center">
+  <img width="724" height="391" alt="verschil analyse" src="https://github.com/user-attachments/assets/0a754fc4-f057-41d5-a1ba-82dd2d194882" />
+</p>
 
 ---
 
@@ -90,8 +113,10 @@ Your Power BI report should include:
 - Annual average income , household size, families with both pets  
 - Persons per household 
 - Annual pet expenditure vs. income
-  
-<img width="724" height="397" alt="familie analyse" src="https://github.com/user-attachments/assets/13ad690e-f0fc-4700-adbd-ad1a9b4f9a01" />
+
+<p align="center"> 
+  <img width="724" height="397" alt="familie analyse" src="https://github.com/user-attachments/assets/13ad690e-f0fc-4700-adbd-ad1a9b4f9a01" />
+</p>
 
 ---
 
@@ -106,8 +131,10 @@ Provides detailed analysis for individual families:
 - Average review scores 
 - Product recommendations 
 - Comments and shopping platforms
-  
-<img width="721" height="388" alt="familie details" src="https://github.com/user-attachments/assets/3fe9307f-555c-46e3-8733-d43a0cd48963" />
+
+<p align="center">  
+  <img width="721" height="388" alt="familie details" src="https://github.com/user-attachments/assets/3fe9307f-555c-46e3-8733-d43a0cd48963" />
+</p>
 
 ---
 
